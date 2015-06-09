@@ -1,3 +1,5 @@
 # hello-world
 just completing the tutorial
-printf("llego el lecheroo\n");
+hi humans
+este codigo esta de la pesada
+
